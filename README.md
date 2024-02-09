@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Raveena
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Data Analytics
 
