@@ -4,4 +4,5 @@
 - My technical toolkit includes Python, SQL, Informatica, Apache Kafka, and Apache Spark. I have hands-on experience designing and deploying scalable data projects, building machine learning models, and developing business intelligence dashboards. Whether optimizing infrastructure workflows or uncovering insights from large datasets, I am passionate about turning complex problems into actionable solutions.
 - Interests: Data Engineering | Applied Machine Learning | Real-Time Analytics | Cloud & Big Data
 - Open to connecting and collaborating on opportunities where data can drive innovation and results.
+- Author: www.linkedin.com/in/raveena-kagne
 
