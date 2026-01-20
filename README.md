@@ -1,6 +1,7 @@
 Hey, I’m Raveena Kagne! 👋
 
 📍 Fort Lauderdale, Florida, USA
+
 A Data & AI professional passionate about transforming complex data into actionable insights using analytics, machine learning, and scalable data systems.
 
 👩‍💻 I’ve completed my Master of Science in Data Analytics from San Jose State University and currently work as a Research Assistant, collaborating on AI-driven healthcare research involving multimodal data and machine learning experimentation. I bring 4+ years of professional experience across data analytics, ML modeling, and cloud-based data engineering in financial services, compliance, and healthcare.
