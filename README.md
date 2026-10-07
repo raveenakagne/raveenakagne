@@ -40,3 +40,7 @@ Scalable analytics and real-time data pipelines
 Email: raveena.kagne@gmail.com
 LinkedIn: https://www.linkedin.com/in/raveena-kagne
 GitHub: https://github.com/raveenakagne
+ORCID: https://orcid.org/0009-0000-3719-8338
+Tableau: https://public.tableau.com/app/profile/raveena.kagne/vizzes
+Medium: https://medium.com/@kagneraveenarajendra
+Youtube: https://www.youtube.com/@raveenakagne6761
